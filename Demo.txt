@@ -6,6 +6,6 @@ we are working on git functionality
 
 topic covered
 oops
-git
+String
 collection 
 
