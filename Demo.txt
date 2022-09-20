@@ -1,1 +1,11 @@
 this is demo file foe 23 july batch
+
+we are working on git functionality
+
+
+
+topic covered
+oops
+git
+collection 
+
